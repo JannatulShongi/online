@@ -12,8 +12,8 @@
         <div class="container">
           <div class="row">
             <div class="intro-text">
-              <h1>Asif Restaurant</h1>
-              <p> Contact Us : 01622025683</p>
+              <h1>Shokher Bioscope</h1>
+              <p> Contact Us : 016********</p>
             </div>
           </div>
         </div>
